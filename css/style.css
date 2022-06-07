@@ -1,0 +1,107 @@
+/* start header */
+.logo{
+    display: inline-block;
+    margin-right: 50px;
+    vertical-align: middle;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 22px;
+}
+.activepage{
+    color: red;
+}
+/* end headr */
+body{
+    background-color: rgba(42, 199, 160, 0.353);
+}
+.header{
+    background-color: lightslategrey;
+}
+
+/* aq gavstile mtavari gverdi */
+.div-box{
+    width: 1170px;
+    height: 300px;
+    margin: 20px auto;
+}
+.div-img{
+    width:1170px;
+    height: 300px;
+    
+}
+.left-box{
+    width: 570px;
+    background-color:aqua ;
+    display: inline-block;
+    padding: 13px 15px 24px 20px;
+    margin-right: 26px;
+}
+.right-box{
+    width: 570px;
+    background-color: rgba(49, 240, 97, 0.932);
+    display: inline-block;
+    padding: 13px 15px 24px 20px;
+}
+.text-blok{
+    display: inline-block;
+    width: 350px;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.image-box{
+   width: 100px;
+   height: 130px;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+.title-box{
+    margin-bottom: 12px;
+    font-size: 40px;
+    text-align: center;
+}
+.main-box{
+    width: 1170px;
+    height: 300px;
+    margin: 50px auto;
+}
+.main-title{
+    margin: 20px auto;
+}
+/* aq damtavrda mtavari gverdis gastilva */
+
+/* footeris gastilva  */
+.footer-div{
+    background-color: lightslategray;
+}
+.fb-div{
+    display: inline-block;
+    width: 600px;
+    margin-right: 110px;
+
+}
+.tube-div{
+    display:inline-block;
+    width: 600px;
+}
+.footerfb-title{
+    display: inline-block;
+}
+.footertube-title{
+    display: inline-block;
+}
+.footer-text{
+    font-size: 30px;
+    color: rgb(1, 199, 248);
+    vertical-align: middle;
+}
+.footer-logo{
+    vertical-align: middle;
+    margin-right: 20px;
+}
+/* damtavrda footeri */
