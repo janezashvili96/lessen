@@ -74,6 +74,81 @@ body{
     margin: 20px auto;
 }
 /* aq damtavrda mtavari gverdis gastilva */
+/* meore gverdis gastilva */
+.page-2{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    margin: 0px auto;
+}
+.div-date{
+    width: 56px;
+    height: 56px;
+    background-color: blue;
+    font-size: 53px;
+    color: white;
+    margin: 10px 7px;
+}
+.maisi{
+    font-size: 25px;
+    color: red;
+    margin-bottom: 7px;
+    display: inline-block;
+}
+.title-date{
+    font-size: 45px;
+    color: red;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.articale-div{
+    display: inline-block;
+    width: 929px;
+    color: crimson;
+    vertical-align: top;
+    font-size: 18px;
+}
+.image-div{
+    vertical-align: top;
+    width: 400px;
+    margin-right: 19px;
+}
+.artical-p{
+    margin-bottom: 20px;
+}
+/* damtavrda meore gverdis gastilva */
+
+
+/* contact page */
+.contact-section{
+    background-color: gray;
+
+}
+.maindiv-contact{
+    width: 1177px;
+    margin: 0px auto;
+}
+.contact-map{
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-blok{
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-title{
+    color: red;
+    font-size: 27px;
+    margin-bottom: 10px;
+}
+.contact-text{
+    color: indigo;
+    font-size: 25px;
+    
+    
+}
+
+/* end contact page */
 
 /* footeris gastilva  */
 .footer-div{
