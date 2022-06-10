@@ -12,6 +12,8 @@
     display: inline-block;
     margin-right: 30px;
     font-size: 22px;
+    font-family: "DejaVu Sans Oblique", sans-serif;
+
 }
 .activepage{
     color: red;
@@ -19,6 +21,9 @@
 /* end headr */
 body{
     background-color: rgba(42, 199, 160, 0.353);
+}
+p{
+    font-family: "DejaVu Sans Oblique", sans-serif;
 }
 .header{
     background-color: lightslategrey;
