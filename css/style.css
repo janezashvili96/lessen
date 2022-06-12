@@ -24,6 +24,8 @@ body{
 }
 p{
     font-family: "DejaVu Sans Oblique", sans-serif;
+    /* font-family: 'ALK Life'; */
+
 }
 .header{
     background-color: lightslategrey;
